@@ -1,0 +1,20 @@
+9c9
+< let testArr = [1, 2, 3, 4, 5];
+---
+> let testArr = [1, 2, 3, 4, 6];
+12c12,19
+< console.log("Before: " + JSON.stringify(testArr));
+---
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+13a21,24
+> 
+> 
+> 
+> console.log('hello');

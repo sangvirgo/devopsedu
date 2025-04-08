@@ -1,0 +1,14 @@
+*** /dev/null
+--- /dev/null
+***************
+*** 12,19
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+--- 12 -----
++ console.log("Before: " + JSON.stringify(testArr));
