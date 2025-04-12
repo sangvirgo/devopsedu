@@ -39,6 +39,7 @@
 		"web-vitals": "1.0.1"
 	},
 	"devDependencies": {
+		"start": "PORT=8111 react-script start",
 		"eslint": "^7.11.0",
 		"@testing-library/jest-dom": "5.11.4",
 		"@testing-library/react": "11.1.0",
