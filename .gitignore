@@ -1,0 +1,2 @@
+/docker/BACKEND/src/main/resources/*
+/docker/BACKEND/docker-compose.yml
